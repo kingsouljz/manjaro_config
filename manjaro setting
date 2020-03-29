@@ -1,3 +1,4 @@
+更新源
 sudo pacman -Syy
 sudo pacman-mirrors -i -c China -m rank
 sudo pacman -Syyu
